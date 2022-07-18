@@ -7,7 +7,9 @@ https://www.javatpoint.com/react-installation
 https://www.javatpoint.com/react-create-react-app
 
 Next, open the project on Code editor. Here, I am using Visual Studio Code. Our project's default structure looks like as below image.
+
 ![image](https://user-images.githubusercontent.com/66677660/179565801-55e89fae-5933-4d79-b0f5-e3f61ef41111.png)
+
 In React application, there are several files and folders in the root directory. Some of them are as follows:
 
 node_modules: It contains the React library and any other third party libraries needed.
